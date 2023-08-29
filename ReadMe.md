@@ -12,7 +12,7 @@ const AmtiXDev = {
 Name: "AmtiXDev",
 Developer: "Front-End",
 Age: "16 y.o",
-Country: "Egyption",
+Country: "Egypt",
 Coding: "Since 2018-2019"
 }
 ```
