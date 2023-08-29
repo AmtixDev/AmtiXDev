@@ -49,6 +49,8 @@ Coding: "Since 2018-2019"
     &emsp;
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00618B?style=for-the-badge&logo=mysql&logoColor=white"/>
     &emsp;
+    <img alt="JSON" src="https://img.shields.io/badge/Json-f7e018?style=for-the-badge&logo=json&logoColor=white"/>
+    &emsp;
     <img alt="SQLITE" src="https://img.shields.io/badge/Sqlite-045bd4?style=for-the-badge&logo=sqlite&logoColor=white"/>
     </p>
     <hr />
