@@ -59,9 +59,12 @@ Coding: "Since 2018-2019"
     <img alt="visual" src="https://img.shields.io/badge/Visual_Studio_Code-3d3d3d?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"/>
     <img alt="Adobe" src="https://img.shields.io/badge/PhotoShop-5156fb?style=for-the-badge&logo=Adobe%20PhotoShop&logoColor=white"/>
     <img alt="Adobe" src="https://img.shields.io/badge/After Effects-45088C?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/>
+    <img alt="Blender" src="https://img.shields.io/badge/Blender-EA7600?style=for-the-badge&logo=Blender&logoColor=white"/>
+    <img alt="Cinema 4D" src="https://img.shields.io/badge/Cinema 4D-grey?style=for-the-badge&logo=cinema%204d&logoColor=white"/>
     </p>
     <hr />
-    <h5> Contact with me :</h5>
+    <h5> Contact Me? :</h5>
     <p align="left">
-    <a href="https://discordapp.com/users/451460034686091265"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289d9?style=for-the-badge&logo=Discord&logoColor=ffffff"/></a>
+    <a href="https://discordapp.com/users/451460034686091265"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289d9?style=for-the-badge&logo=Discord&logoColor=ffffff"/> 
+    </a>
     </p>
