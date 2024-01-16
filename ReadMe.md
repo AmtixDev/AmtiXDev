@@ -13,7 +13,7 @@ Name: "AmtiXDev",
 Developer: "Front-End",
 Age: "23 y.o",
 Country: "Egypt",
-Coding: "Since 2018-2019"
+Coding: "Since 2017"
 }
 ```
 <hr />
