@@ -10,9 +10,9 @@ console.log("Hi, Hello")
 ```js
 const AmtiXDev = {
 Name: "AmtiXDev",
-Developer: "Front-End",
+Developer: "Full-Stack 50/50",
 Age: "23 y.o",
-Country: "Egypt",
+Country: "Japan",
 Coding: "Since 2017"
 }
 ```
