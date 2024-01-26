@@ -32,6 +32,8 @@ Coding: "Since 2017"
 <p align="left">
     <img alt="JS" src="https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=white"/>
     &emsp;
+    <img alt="PY" src="https://img.shields.io/badge/Python-2b5b84?style=for-the-badge&logo=python&logoColor=white"/>
+    &emsp;
     <img alt="NJS" src="https://img.shields.io/badge/Node.js-06ab06?style=for-the-badge&logo=node.js&logoColor=white"/>
     &emsp;
     <img alt="PY" src="https://img.shields.io/badge/Python-06aba8?style=for-the-badge&logo=python&logoColor=white"/>
