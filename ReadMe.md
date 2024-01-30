@@ -11,7 +11,7 @@ console.log("Hi, Hello")
 const AmtiXDev = {
 Name: "AmtiXDev",
 Developer: "Full-Stack 50/50",
-Age: "23 y.o",
+Age: "24 y.o",
 Country: "Japan",
 Coding: "Since 2017"
 }
