@@ -71,8 +71,9 @@ Coding: "Since 2017"
     <hr />
     <h5> Contact Me? :</h5>
     <p align="left">
-      ![Discord](https://discord.c99.nl/widget/theme-1/246354195979042817.png)
     <a href="https://discordapp.com/users/451460034686091265"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289d9?style=for-the-badge&logo=Discord&logoColor=ffffff"/.</a>
     &emsp;
     <a href="https://twitter.com/AmtiXDev"><img alt="X" src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=ffffff"/></a>
     </p>
+
+    ![Discord](https://discord.c99.nl/widget/theme-1/246354195979042817.png)
