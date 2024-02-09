@@ -1,4 +1,4 @@
-
+![Discord](https://discord.c99.nl/widget/theme-1/246354195979042817.png)
 <h1 align="center"> こんにちは、私の名前はAmtiXです / Hi, My Name Is AmtiX <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer+/+Graphic+Designer&center=true&width=500&height=50"></a>
@@ -75,5 +75,3 @@ Coding: "Since 2017"
     &emsp;
     <a href="https://twitter.com/AmtiXDev"><img alt="X" src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=ffffff"/></a>
     </p>
-
-    ![Discord](https://discord.c99.nl/widget/theme-1/246354195979042817.png)
